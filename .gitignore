@@ -10,3 +10,4 @@ deploy-preview/
 coverage/
 _site/
 Gemfile.lock
+.env
